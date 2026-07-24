@@ -180,6 +180,9 @@ These projects demonstrate practical experience designing, deploying, securing, 
 
 > Designed and implemented a hybrid cloud migration solution that modernizes an on-premises infrastructure by integrating Microsoft Entra ID, Azure SQL Database, Azure Files, IIS-hosted ERP workloads, monitoring, and Infrastructure as Code with Terraform.
 
+
+![AD DS Screenshot](https://github.com/jkaljokey-hub/consoleLtd-onprem-to-azure-migration/blob/main/assets/ChatGPT%20Image%20May%2024,%202026,%2003_18_11%20PM.png?raw=true)
+
 ### Key Highlights
 
 - ✅ Microsoft Entra ID Hybrid Identity

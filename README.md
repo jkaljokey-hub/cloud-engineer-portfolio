@@ -236,6 +236,9 @@ https://github.com/Abubakar-Alnour/Cloud-Based-Multi-Environment-Application
 
 > Designed a secure Azure landing zone using Azure Firewall, Bastion, Private Endpoints, and segmented virtual networks following cloud security best practices.
 
+![ERP Azure Architecture](https://github.com/jkaljokey-hub/Azure-Secure-Access/blob/main/images/1772927240737.jpeg?raw=true)
+
+
 ### Key Highlights
 
 - ✅ Azure Firewall
@@ -264,6 +267,8 @@ https://github.com/Abubakar-Alnour/Azure-Secure-Access
 
 > Implemented an enterprise-scale Hub-and-Spoke network topology using Terraform to provide secure connectivity, centralized shared services, and scalable network segmentation.
 
+![Hub and spoke Azure Architecture](https://github.com/jkaljokey-hub/Wide-Hub-Spoke-Terrraform/blob/master/assert/1773163439262.jpeg?raw=true)
+
 ### Key Highlights
 
 - ✅ Hub & Spoke Topology
@@ -291,6 +296,9 @@ https://github.com/Abubakar-Alnour/Wide-Hub-Spoke-Terrraform
 
 > Automated deployment of a complete ERP-ready Azure environment including Odoo, Azure SQL Database, Bastion access, secure networking, and modular Terraform infrastructure.
 
+
+
+![ERP Azure Architecture](https://github.com/jkaljokey-hub/Odoo-Azure-Sql-Terraform/blob/main/assets/ChatGPT%20Image%20Apr%2016,%202026,%2012_10_35%20PM.png?raw=true)
 ### Key Highlights
 
 - ✅ Odoo ERP
@@ -317,6 +325,9 @@ https://github.com/Abubakar-Alnour/Odoo-Azure-Sql-Terraform
 ## Azure Hub-and-Spoke (Bicep)
 
 Enterprise Azure networking fully deployed with reusable Bicep modules.
+
+![Hub and spoke Azure Architecture](https://github.com/jkaljokey-hub/Wide-Hub-Spoke-Terrraform/blob/master/assert/1773163439262.jpeg?raw=true)
+
 
 🔗 https://github.com/Abubakar-Alnour/Hub-Spoke-Iac
 
@@ -370,6 +381,9 @@ CI/CD pipelines demonstrating automated build, deployment, and release workflows
 ## Automated Backup to Azure Blob Storage
 
 Automated backup and restore solution using Linux shell scripting, Cron, and Azure Blob Storage.
+
+ ![ERP Azure Architecture](https://github.com/jkaljokey-hub/Automated-Linux-Backup-to-Azure-BlobStorage/blob/main/docs/backup.png?raw=true)
+
 
 🔗 https://github.com/Abubakar-Alnour/Automated-Linux-Backup-to-Azure-BlobStorage
 

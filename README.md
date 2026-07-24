@@ -1,84 +1,386 @@
-Azure Cloud Portfolio
+<div align="center">
 
-Hello! I'm Abubakar Alnour, an Azure Administrator passionate about designing, deploying, and automating cloud infrastructure using Microsoft Azure.
+# ☁️ Azure Cloud Architecture Portfolio
 
-This repository showcases my hands-on Azure projects covering Infrastructure as Code, CI/CD, Azure Networking, Cloud Migration, Docker, Kubernetes, and Monitoring.
+### Enterprise Azure Infrastructure • Infrastructure as Code • Cloud Migration • DevOps
 
-Certifications
-✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
-✅ HashiCorp Terraform Associate
-✅ Azure Fundamentals (AZ-900)
-Featured Projects
-Azure Migration Project
+<p>
 
-Description
+<img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AZ--900-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 
-Migrated an on-premises application to Microsoft Azure using Azure Virtual Machines, Azure Networking, Storage, and Microsoft Entra ID.
+</p>
 
-Technologies
+<p>
 
-Azure VM
-Azure VNet
-NSG
-Azure Storage
-Azure SQL
-Microsoft Entra ID
-Bicep
-Terraform
+<img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/IaC-Bicep-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu"/>
 
-📂 Repository
+</p>
 
-https://github.com/YourUsername/azure-migration
+---
 
-Terraform Infrastructure
+### 👋 Hi, I'm **Abubakar Alnour**
 
-Automated Azure infrastructure deployment using Terraform.
+**Azure Administrator | Cloud Support Engineer | Infrastructure as Code Enthusiast**
 
-📂 Repository
+I build secure, scalable, and automated cloud infrastructure on Microsoft Azure through real-world hands-on projects focused on enterprise networking, cloud migration, Infrastructure as Code, DevOps, and cloud operations.
 
-https://github.com/YourUsername/terraform-project
+---
 
-Bicep Infrastructure
+[🏢 Featured Projects](#-featured-projects)
+•
+[🏆 Certifications](#-certifications)
+•
+[🛠 Technology Stack](#-technology-stack)
+•
+[📫 Contact](#-contact)
 
-Infrastructure as Code using Azure Bicep.
+</div>
 
-📂 Repository
+---
 
-https://github.com/YourUsername/bicep-project
+# 👨‍💻 About Me
 
-GitHub Actions CI/CD
+I'm passionate about designing and deploying enterprise-grade cloud environments using Microsoft Azure.
 
-Automated deployment pipelines using GitHub Actions.
+My portfolio focuses on building production-inspired cloud solutions that emphasize automation, security, scalability, and operational best practices.
 
-📂 Repository
+My projects cover:
 
-https://github.com/YourUsername/github-actions-project
+- ☁️ Microsoft Azure Administration
+- 🏗 Infrastructure as Code (Terraform & Bicep)
+- 🌐 Enterprise Azure Networking
+- 🔐 Cloud Security
+- 🚀 CI/CD Automation
+- 🔄 Hybrid Cloud Migration
+- 🐳 Containers & Docker
+- ☸ Kubernetes Fundamentals
+- 📊 Monitoring & Observability
+- 🐧 Linux Administration
 
-Docker Swarm
+Every project includes architecture diagrams, screenshots, deployment documentation, implementation notes, and GitHub source code.
 
-Highly available containerized application using Docker Swarm.
+---
 
-📂 Repository
+# 🏆 Certifications
 
-https://github.com/YourUsername/docker-swarm
+| Certification | Status |
+|---------------|--------|
+| ✅ Microsoft Certified: Azure Administrator Associate (AZ-104) | Certified |
+| ✅ Microsoft Certified: Azure Fundamentals (AZ-900) | Certified |
+| ✅ HashiCorp Certified: Terraform Associate | Certified |
 
-Kubernetes
+### Microsoft Learn Transcript
 
-Hands-on Kubernetes deployments using Minikube.
+🔗 https://learn.microsoft.com/en-us/users/bakrymohamed-3026/transcript/dlmwkbe6oz1wn11
 
-📂 Repository
+---
 
-https://github.com/YourUsername/kubernetes
+# 🛠 Technology Stack
 
-Monitoring
+## Cloud
 
-Monitoring infrastructure using Prometheus, Grafana, and cAdvisor.
+- Microsoft Azure
+- Microsoft Entra ID
+- Azure Virtual Machines
+- Azure App Service
+- Azure SQL Database
+- Azure Files
+- Azure Storage
+- Azure Monitor
+- Log Analytics
+- Azure Bastion
+- Azure Firewall
+- Private Endpoints
+- Virtual Networks
+- Load Balancer
+- Network Security Groups
+- Availability Zones
 
-📂 Repository
+---
 
-https://github.com/YourUsername/monitoring
+## Infrastructure as Code
 
-Skills
+- Terraform
+- Bicep
+- ARM Templates
 
-Azure • Terraform • Bicep • GitHub Actions • Docker • Kubernetes • Azure Networking • Azure Migration • Microsoft Entra ID • Azure Monitor • Linux • Git
-# cloud-engineer-portfolio
+---
+
+## DevOps
+
+- GitHub Actions
+- Git
+- CI/CD
+- Automation
+
+---
+
+## Containers
+
+- Docker
+- Docker Swarm
+- Kubernetes (Minikube)
+
+---
+
+## Monitoring
+
+- Azure Monitor
+- Log Analytics
+- Prometheus
+- Grafana
+- cAdvisor
+
+---
+
+## Operating Systems
+
+- Ubuntu Linux
+- Windows Server
+
+---
+
+# 📊 Portfolio Highlights
+
+| Category | Highlights |
+|-----------|-----------|
+| ☁ Azure Projects | 10+ |
+| 🏗 Infrastructure as Code | Terraform & Bicep |
+| 🔄 Cloud Migration | Hybrid On-Premises → Azure |
+| 🌐 Enterprise Networking | Hub & Spoke Architecture |
+| 🚀 CI/CD | GitHub Actions |
+| 🐳 Containers | Docker & Kubernetes |
+| 📊 Monitoring | Azure Monitor + Grafana + Prometheus |
+
+---
+
+# ⭐ Featured Projects
+
+The repositories below are ordered to highlight enterprise cloud architecture, Infrastructure as Code, cloud migration, networking, automation, and DevOps practices.
+
+> Every repository includes documentation, deployment steps, screenshots, and architecture explanations.
+
+# 🚀 Featured Projects
+
+These projects demonstrate practical experience designing, deploying, securing, automating, and managing Microsoft Azure environments. Each repository includes detailed documentation, architecture diagrams, deployment guides, screenshots, and implementation notes.
+
+---
+
+# 🏢 Hybrid On-Premises to Azure Migration
+
+### Enterprise Migration Project
+
+> Designed and implemented a hybrid cloud migration solution that modernizes an on-premises infrastructure by integrating Microsoft Entra ID, Azure SQL Database, Azure Files, IIS-hosted ERP workloads, monitoring, and Infrastructure as Code with Terraform.
+
+### Key Highlights
+
+- ✅ Microsoft Entra ID Hybrid Identity
+- ✅ Azure SQL Database Migration
+- ✅ IIS ERP Application Migration
+- ✅ Azure Files Integration
+- ✅ Azure Monitor & Log Analytics
+- ✅ Infrastructure as Code (Terraform)
+- ✅ Secure Azure Networking
+
+### Technologies
+
+`Azure` `Terraform` `Azure SQL` `Entra ID` `Azure Files` `Azure Monitor`
+
+🔗 **Repository**
+
+https://github.com/Abubakar-Alnour/consoleLtd-onprem-to-azure-migration
+
+---
+
+# 🌍 Cloud-Based Multi-Environment Application
+
+### Production-Style Azure Application Platform
+
+> Designed a secure and scalable multi-environment cloud architecture using Azure App Service deployment slots, Azure SQL Database, Log Analytics, and Infrastructure as Code.
+
+### Key Highlights
+
+- ✅ Azure App Service
+- ✅ Deployment Slots (Blue / Green)
+- ✅ Azure SQL Database
+- ✅ Log Analytics
+- ✅ Secure Cloud Networking
+- ✅ Infrastructure Automation
+
+### Technologies
+
+`Azure App Service` `Azure SQL` `Terraform` `Log Analytics`
+
+🔗 **Repository**
+
+https://github.com/Abubakar-Alnour/Cloud-Based-Multi-Environment-Application
+
+---
+
+# 🔐 Secure Azure Landing Zone
+
+### Enterprise Security Architecture
+
+> Designed a secure Azure landing zone using Azure Firewall, Bastion, Private Endpoints, and segmented virtual networks following cloud security best practices.
+
+### Key Highlights
+
+- ✅ Azure Firewall
+- ✅ Azure Bastion
+- ✅ Private Endpoints
+- ✅ Zero Public IP
+- ✅ Network Segmentation
+- ✅ Bicep Automation
+
+### Technologies
+
+`Azure Firewall`
+`Bicep`
+`Private Endpoint`
+`Azure Bastion`
+
+🔗 **Repository**
+
+https://github.com/Abubakar-Alnour/Azure-Secure-Access
+
+---
+
+# 🌐 Enterprise Hub-and-Spoke Architecture
+
+### Azure Enterprise Networking
+
+> Implemented an enterprise-scale Hub-and-Spoke network topology using Terraform to provide secure connectivity, centralized shared services, and scalable network segmentation.
+
+### Key Highlights
+
+- ✅ Hub & Spoke Topology
+- ✅ Shared Services Network
+- ✅ Route Tables
+- ✅ NSGs
+- ✅ Modular Terraform Design
+
+### Technologies
+
+`Terraform`
+`Azure Networking`
+`Hub-Spoke`
+`Route Tables`
+
+🔗 **Repository**
+
+https://github.com/Abubakar-Alnour/Wide-Hub-Spoke-Terrraform
+
+---
+
+# 🏢 Odoo ERP on Azure
+
+### Enterprise ERP Infrastructure
+
+> Automated deployment of a complete ERP-ready Azure environment including Odoo, Azure SQL Database, Bastion access, secure networking, and modular Terraform infrastructure.
+
+### Key Highlights
+
+- ✅ Odoo ERP
+- ✅ Azure SQL
+- ✅ Bastion
+- ✅ ODBC Connectivity
+- ✅ Modular Terraform
+
+### Technologies
+
+`Terraform`
+`Azure SQL`
+`Linux`
+`Azure VM`
+
+🔗 **Repository**
+
+https://github.com/Abubakar-Alnour/Odoo-Azure-Sql-Terraform
+
+---
+
+# 🏗 Infrastructure as Code
+
+## Azure Hub-and-Spoke (Bicep)
+
+Enterprise Azure networking fully deployed with reusable Bicep modules.
+
+🔗 https://github.com/Abubakar-Alnour/Hub-Spoke-Iac
+
+---
+
+## Azure VM Template Redeployment
+
+ARM/Bicep deployment templates for Azure Virtual Machine redeployment scenarios.
+
+🔗 https://github.com/Abubakar-Alnour/azure-vm-template-redeployment
+
+---
+
+## Terraform Load Balancer Architecture
+
+High availability Linux infrastructure with NGINX load balancing.
+
+🔗 https://github.com/Abubakar-Alnour/Terraform-Nginx-Loadbalancer
+
+---
+
+# 🐳 Containers & DevOps
+
+## Production Docker Swarm Platform
+
+Designed a production-style microservices platform running on AWS EC2 with Docker Swarm, overlay networking, monitoring, and CI/CD automation.
+
+### Technologies
+
+`Docker`
+`Docker Swarm`
+`AWS EC2`
+`Grafana`
+`Prometheus`
+`cAdvisor`
+
+🔗 https://github.com/Abubakar-Alnour/Docker-swarm-microservices
+
+---
+
+## DevOps CI/CD
+
+CI/CD pipelines demonstrating automated build, deployment, and release workflows.
+
+🔗 https://github.com/Abubakar-Alnour/DevOpsProjectCICD
+
+---
+
+# 🐧 Linux Automation
+
+## Automated Backup to Azure Blob Storage
+
+Automated backup and restore solution using Linux shell scripting, Cron, and Azure Blob Storage.
+
+🔗 https://github.com/Abubakar-Alnour/Automated-Linux-Backup-to-Azure-BlobStorage
+
+---
+
+# 🧪 Hands-On Labs
+
+These repositories focus on learning core Azure infrastructure concepts through practical implementation.
+
+- Azure Networking Lab
+- Linux Environment Lab
+
+🔗 Core Azure Networking Lab
+
+https://github.com/Abubakar-Alnour/Core-Azure-Networking-Lab
+
+🔗 Linux Environment
+
+https://github.com/Abubakar-Alnour/Linux-Env

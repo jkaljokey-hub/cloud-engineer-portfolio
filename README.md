@@ -71,11 +71,11 @@ Every project includes architecture diagrams, screenshots, deployment documentat
 
 # 🏆 Certifications
 
-| Certification | Status |
-|---------------|--------|
-| ✅ Microsoft Certified: Azure Administrator Associate (AZ-104) | Certified |
-| ✅ Microsoft Certified: Azure Fundamentals (AZ-900) | Certified |
-| ✅ HashiCorp Certified: Terraform Associate | Certified |
+| Certification | Verification |
+|---------------|--------------|
+| ✅ Microsoft Certified: Azure Administrator Associate (AZ-104) | [View Credential](https://learn.microsoft.com/en-us/users/bakrymohamed-3026/transcript/dlmwkbe6oz1wn11) |
+| ✅ Microsoft Certified: Azure Fundamentals (AZ-900) | [View Credential](https://learn.microsoft.com/en-us/users/bakrymohamed-3026/transcript/dlmwkbe6oz1wn11) |
+| ✅ HashiCorp Certified: Terraform Associate | [View Badge](https://www.credly.com/badges/3f1d05c2-3030-4464-bf8c-db490f5a2e5b/linked_in_profile) |
 
 ### Microsoft Learn Transcript
 
@@ -431,6 +431,9 @@ Every repository reflects practical hands-on experience in Azure infrastructure,
 <img src="https://img.shields.io/badge/Microsoft-Learn%20Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
+<a href="https://www.credly.com/badges/3f1d05c2-3030-4464-bf8c-db490f5a2e5b/linked_in_profile">
+<img src="https://img.shields.io/badge/Credly-Terraform%20Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 ---
 
 ### Certifications

@@ -407,168 +407,34 @@ https://github.com/Abubakar-Alnour/Linux-Env
 
 ---
 
-# 🏗 Enterprise Azure Projects
+<div align="center">
 
-These projects demonstrate hands-on experience designing, deploying, securing, automating, and documenting Microsoft Azure infrastructure using industry best practices.
+## 🤝 Let's Connect
 
-> Every project includes detailed documentation, deployment guides, architecture diagrams, screenshots, and implementation notes.
+I'm always interested in discussing **Microsoft Azure**, **Cloud Infrastructure**, **Infrastructure as Code**, **Cloud Migration**, and **DevOps**.
 
----
+<p>
 
-<table>
-<tr>
+<a href="https://www.linkedin.com/in/abubakar-alnour/">
+<img src="https://img.shields.io/badge/LinkedIn-Abubakar%20Alnour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<td width="50%">
+<a href="mailto:abubakaralnour43@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🏢 Hybrid On-Premises to Azure Migration
+<a href="https://learn.microsoft.com/en-us/users/bakrymohamed-3026/transcript/dlmwkbe6oz1wn11">
+<img src="https://img.shields.io/badge/Microsoft%20Learn-Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
 
-Production-inspired migration project demonstrating the transition of on-premises infrastructure to Microsoft Azure.
-
-### Highlights
-
-- Hybrid Identity with Microsoft Entra ID
-- Azure SQL Migration
-- IIS ERP Application Migration
-- Azure Files
-- Infrastructure as Code
-- Azure Monitoring
-- Secure Networking
-
-**Technologies**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square)
-
-➡️ Repository
-
-</td>
-
-<td width="50%">
-
-## 🌐 Enterprise Hub-and-Spoke
-
-Enterprise Azure networking architecture deployed using Terraform.
-
-### Highlights
-
-- Hub Network
-- Multiple Spokes
-- Shared Services
-- Route Tables
-- NSGs
-- Modular Infrastructure
-
-**Technologies**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform)
-
-➡️ Repository
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-<table>
-<tr>
+⭐ If you found this project helpful, consider giving it a **Star**.
 
-<td width="50%">
+Cloud engineering is not just about deploying resources—it's about building secure, scalable, and maintainable solutions.
 
-## 🔐 Secure Azure Landing Zone
+**Thanks for visiting!**
 
-Enterprise security architecture demonstrating Azure networking best practices.
-
-### Features
-
-- Azure Firewall
-- Azure Bastion
-- Private Endpoints
-- Segmented VNets
-- Zero Public IP
-
-**Technologies**
-
-![Azure Firewall](https://img.shields.io/badge/Azure_Firewall-blue?style=flat-square)
-
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square)
-
-➡️ Repository
-
-</td>
-
-<td width="50%">
-
-## ☁️ Multi-Environment Azure Application
-
-Production-style Azure application platform.
-
-### Features
-
-- Azure App Service
-- Deployment Slots
-- Azure SQL
-- Log Analytics
-- Secure Deployment
-
-**Technologies**
-
-![Azure App Service](https://img.shields.io/badge/App_Service-blue?style=flat-square)
-
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-blue?style=flat-square)
-
-➡️ Repository
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🏢 Odoo ERP on Azure
-
-Complete ERP infrastructure deployed with Terraform.
-
-### Features
-
-- Odoo VM
-- Azure SQL
-- Azure Bastion
-- ODBC
-- Linux
-
-➡️ Repository
-
-</td>
-
-<td width="50%">
-
-## 🏗 Infrastructure as Code Portfolio
-
-Infrastructure automation projects built using Terraform and Bicep.
-
-Included repositories
-
-- Hub & Spoke (Terraform)
-- Hub & Spoke (Bicep)
-- Azure VM Redeployment
-- Terraform Load Balancer
-
-➡️ View Collection
-
-</td>
-
-</tr>
-</table>
-
----
+</div>

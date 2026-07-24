@@ -209,6 +209,8 @@ https://github.com/Abubakar-Alnour/consoleLtd-onprem-to-azure-migration
 
 > Designed a secure and scalable multi-environment cloud architecture using Azure App Service deployment slots, Azure SQL Database, Log Analytics, and Infrastructure as Code.
 
+
+ ![ERP Azure Architecture](https://github.com/jkaljokey-hub/Azure-Production-Web-App-Environmen/blob/main/terraform/assets/ChatGPT%20Image%20May%203,%202026,%2002_23_20%20PM.png?raw=true)
 ### Key Highlights
 
 - ✅ Azure App Service

@@ -409,32 +409,42 @@ https://github.com/Abubakar-Alnour/Linux-Env
 
 <div align="center">
 
-## 🤝 Let's Connect
+# ☁️ Thank You for Visiting
 
-I'm always interested in discussing **Microsoft Azure**, **Cloud Infrastructure**, **Infrastructure as Code**, **Cloud Migration**, and **DevOps**.
+I appreciate your time exploring my cloud portfolio.
 
-<p>
+Every repository reflects practical hands-on experience in Azure infrastructure, cloud networking, Infrastructure as Code, automation, security, and DevOps.
+
+---
+
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/abubakar-alnour/">
 <img src="https://img.shields.io/badge/LinkedIn-Abubakar%20Alnour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abubakaralnour43@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-abubakaralnour43%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/users/bakrymohamed-3026/transcript/dlmwkbe6oz1wn11">
-<img src="https://img.shields.io/badge/Microsoft%20Learn-Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Learn%20Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
-⭐ If you found this project helpful, consider giving it a **Star**.
+### Certifications
 
-Cloud engineering is not just about deploying resources—it's about building secure, scalable, and maintainable solutions.
+🟦 Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-**Thanks for visiting!**
+🟦 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+🟪 HashiCorp Certified: Terraform Associate
+
+---
+
+*"Building cloud infrastructure with security, automation, and scalability in mind."*
+
+⭐ **Thank you for visiting my portfolio.**
 
 </div>

@@ -198,7 +198,7 @@ These projects demonstrate practical experience designing, deploying, securing, 
 
 🔗 **Repository**
 
-https://github.com/Abubakar-Alnour/consoleLtd-onprem-to-azure-migration
+https://github.com/jkaljokey-hub/consoleLtd-onprem-to-azure-migration
 
 ---
 

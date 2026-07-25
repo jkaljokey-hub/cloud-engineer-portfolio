@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
 
 </p>
-
 <p>
 
 <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure"/>
@@ -226,7 +225,7 @@ https://github.com/Abubakar-Alnour/consoleLtd-onprem-to-azure-migration
 
 🔗 **Repository**
 
-https://github.com/Abubakar-Alnour/Cloud-Based-Multi-Environment-Application
+https://github.com/jkaljokey-hub/Cloud-Based-Multi-Environment-Application
 
 ---
 
@@ -257,7 +256,7 @@ https://github.com/Abubakar-Alnour/Cloud-Based-Multi-Environment-Application
 
 🔗 **Repository**
 
-https://github.com/Abubakar-Alnour/Azure-Secure-Access
+https://github.com/jkaljokey-hub/Azure-Secure-Access
 
 ---
 
@@ -286,7 +285,7 @@ https://github.com/Abubakar-Alnour/Azure-Secure-Access
 
 🔗 **Repository**
 
-https://github.com/Abubakar-Alnour/Wide-Hub-Spoke-Terrraform
+https://github.com/jkaljokey-hub/Wide-Hub-Spoke-Terrraform
 
 ---
 
@@ -316,7 +315,7 @@ https://github.com/Abubakar-Alnour/Wide-Hub-Spoke-Terrraform
 
 🔗 **Repository**
 
-https://github.com/Abubakar-Alnour/Odoo-Azure-Sql-Terraform
+https://github.com/jkaljokey-hub/Odoo-Azure-Sql-Terraform
 
 ---
 
@@ -329,7 +328,7 @@ Enterprise Azure networking fully deployed with reusable Bicep modules.
 ![Hub and spoke Azure Architecture](https://github.com/jkaljokey-hub/Wide-Hub-Spoke-Terrraform/blob/master/assert/1773163439262.jpeg?raw=true)
 
 
-🔗 https://github.com/Abubakar-Alnour/Hub-Spoke-Iac
+🔗 https://github.com/jkaljokey-hub/Hub-Spoke-Iac
 
 ---
 
@@ -337,7 +336,7 @@ Enterprise Azure networking fully deployed with reusable Bicep modules.
 
 ARM/Bicep deployment templates for Azure Virtual Machine redeployment scenarios.
 
-🔗 https://github.com/Abubakar-Alnour/azure-vm-template-redeployment
+🔗 https://github.com/jkaljokey-hub/azure-vm-template-redeployment
 
 ---
 
@@ -345,7 +344,7 @@ ARM/Bicep deployment templates for Azure Virtual Machine redeployment scenarios.
 
 High availability Linux infrastructure with NGINX load balancing.
 
-🔗 https://github.com/Abubakar-Alnour/Terraform-Nginx-Loadbalancer
+🔗 https://github.com/jkaljokey-hub/Terraform-Nginx-Loadbalancer
 
 ---
 
@@ -364,7 +363,7 @@ Designed a production-style microservices platform running on AWS EC2 with Docke
 `Prometheus`
 `cAdvisor`
 
-🔗 https://github.com/Abubakar-Alnour/Docker-swarm-microservices
+🔗 https://github.com/jkaljokey-hub/Docker-swarm-microservices
 
 ---
 
@@ -372,7 +371,7 @@ Designed a production-style microservices platform running on AWS EC2 with Docke
 
 CI/CD pipelines demonstrating automated build, deployment, and release workflows.
 
-🔗 https://github.com/Abubakar-Alnour/DevOpsProjectCICD
+🔗 https://github.com/jkaljokey-hub/DevOpsProjectCICD
 
 ---
 
@@ -385,7 +384,7 @@ Automated backup and restore solution using Linux shell scripting, Cron, and Azu
  ![ERP Azure Architecture](https://github.com/jkaljokey-hub/Automated-Linux-Backup-to-Azure-BlobStorage/blob/main/docs/backup.png?raw=true)
 
 
-🔗 https://github.com/Abubakar-Alnour/Automated-Linux-Backup-to-Azure-BlobStorage
+🔗 https://github.com/jkaljokey-hub/Automated-Linux-Backup-to-Azure-BlobStorage
 
 ---
 
@@ -398,11 +397,11 @@ These repositories focus on learning core Azure infrastructure concepts through 
 
 🔗 Core Azure Networking Lab
 
-https://github.com/Abubakar-Alnour/Core-Azure-Networking-Lab
+https://github.com/jkaljokey-hub/Core-Azure-Networking-Lab
 
 🔗 Linux Environment
 
-https://github.com/Abubakar-Alnour/Linux-Env
+https://github.com/jkaljokey-hub/Linux-Env
 
 
 ---

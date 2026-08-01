@@ -202,9 +202,42 @@ https://github.com/jkaljokey-hub/consoleLtd-onprem-to-azure-migration
 
 ---
 
+---
+# ☸️ Kubernetes Microservices Platform
+
+### Container Orchestration with Kubernetes
+
+> Designed and deployed a containerized multi-tier application using Kubernetes (Minikube), demonstrating application deployment, service discovery, scaling, and container orchestration best practices.
+
+
+![AD DS Screenshot](https://github.com/jkaljokey-hub/kubernetes-fullstack-deployment/blob/main/Doc&screenshots/k8.png?raw=true)
+
+### Key Highlights
+
+- ✅ Kubernetes Deployments
+- ✅ ReplicaSets
+- ✅ Services (ClusterIP & NodePort)
+- ✅ Multi-Container Architecture
+- ✅ NGINX Reverse Proxy
+- ✅ React Frontend
+- ✅ Node.js REST API
+- ✅ Docker Image Deployment
+- ✅ Rolling Updates
+- ✅ Kubernetes Networking
+
+### Technologies
+
+`Kubernetes` `Minikube` `Docker` `NGINX` `React` `Node.js`
+
+### Repository
+
+🔗 https://github.com/YOUR_USERNAME/Kubernetes-Repository
+
+---
+
 # 🌍 Cloud-Based Multi-Environment Application
 
-### Production-Style Azure Application Platform
+###  Azure Application Platform (Slots)
 
 > Designed a secure and scalable multi-environment cloud architecture using Azure App Service deployment slots, Azure SQL Database, Log Analytics, and Infrastructure as Code.
 

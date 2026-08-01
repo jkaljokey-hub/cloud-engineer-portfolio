@@ -231,7 +231,9 @@ https://github.com/jkaljokey-hub/consoleLtd-onprem-to-azure-migration
 
 ### Repository
 
-🔗 https://github.com/YOUR_USERNAME/Kubernetes-Repository
+🔗 https://github.com/jkaljokey-hub/kubernetes-fullstack-deployment.git
+
+
 
 ---
 

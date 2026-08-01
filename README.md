@@ -389,6 +389,37 @@ High availability Linux infrastructure with NGINX load balancing.
 
 Designed a production-style microservices platform running on AWS EC2 with Docker Swarm, overlay networking, monitoring, and CI/CD automation.
 
+## Architecture
+
+```text
+                        Internet
+                            │
+                            ▼
+                   Nginx Frontend (2 Replicas)
+                            │
+                            ▼
+                  Docker Swarm Routing Mesh
+                            │
+                            ▼
+                  Node.js API (3 Replicas)
+                     │                 │
+                     ▼                 ▼
+              PostgreSQL         Redis Cache
+                     │
+                     ▼
+          Docker Secrets (DB Password)
+
+──────────────────────────────────────────────
+
+Prometheus
+        │
+        ▼
+cAdvisor (all nodes)
+        │
+        ▼
+Grafana Dashboards
+```
+
 ### Technologies
 
 `Docker`

@@ -433,7 +433,7 @@ Grafana Dashboards
 
 ---
 
-## DevOps CI/CDsdvhbkjshfbvcsldfjkcnsldfkjsdlfkj
+## DevOps CI/CD
 
 CI/CD pipelines demonstrating automated build, deployment, and release workflows.
 
